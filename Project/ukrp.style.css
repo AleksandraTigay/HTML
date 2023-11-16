@@ -245,3 +245,81 @@ button {
   font-size: 20px;
 }
 
+.finpos {
+  width: 1440px;
+  height: 800px;
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-top: 100px;
+}
+
+.fincomtainer {
+  width: 1200px;
+  height: 700px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.yellfin {
+  width: 1250px;
+  height: 220px;
+  background-color: #FDC13D ;
+  border-radius: 10px;
+  padding-top: 52px;
+  padding-left: 75px;
+}
+
+.hfin {
+  color: #0E2F4B;
+  font-size: 24px;
+}
+
+.pfin {
+  color: #0E2F4B;
+  font-size: 16px;
+}
+
+.hfin2 {
+  color: #0E2F4B;
+  font-size: 48px;
+  margin-top: 121px;
+}
+
+.divposl {
+  display: flex;
+  flex-direction: column;
+  width: 270px;
+  height: 270px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 32px;
+  padding-left: 30px;
+}
+
+.hdivp {
+  margin: 0;
+  color: #0E2F4B;
+  font-size: 24px;
+}
+
+.pdivp {
+  color: #0E2F4B;
+  font-size: 14px;
+}
+
+.pospos1 {
+  position: relative;
+  top: 32px;
+}
+
+.pospos2 {
+  position: relative;
+  top: -270px;
+  left: 370px;
+}
+
+.pospos3 {
+  position: relative;
+  top: -570px;
+  left: 738px;
+}

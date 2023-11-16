@@ -25,6 +25,7 @@ nav {
   align-items: flex-start;
 
 .pnav {
+  font-family: 'Rubik', sans-serif;
   font-size: 16px;
   color: #99A2AA;
   margin-right: 30px;
@@ -88,6 +89,7 @@ input {
 .pbut {
   color: #99A2AA;
   margin-left: 20px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .imfo {
@@ -113,10 +115,12 @@ input {
   color: #0E2F4B;
   font-size: 48px;
   margin: 0;
+  font-family: 'Rubik', sans-serif;
 }
 
 .ppost {
   color: #0E2F4B;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .tough {
@@ -186,6 +190,7 @@ input {
   margin-left: 30px;
   margin-bottom: 0;
   margin-right: 0;
+  font-family: 'Rubik', sans-serif;
 }
 
 .htext2 {
@@ -195,6 +200,7 @@ input {
   margin-bottom: 0;
   margin-right: 0;
   margin-top:0;
+  font-family: 'Rubik', sans-serif;
 }
 
 .ptext {
@@ -202,6 +208,7 @@ input {
   font-size: 14px;
   margin-left: 30px;
   margin-top: 15px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .zap {
@@ -219,16 +226,19 @@ input {
 }
 
 .hzap {
+  font-family: 'Rubik', sans-serif;
   color: #F8F8F8;
   font-size: 48px;
 }
 
 .pzap {
+  font-family: 'Open Sans', sans-serif;
   color: #99A2AA;
   font-size: 16px;
 }
 
 .bzap {
+  font-family: 'Open Sans', sans-serif;
   margin-top: 30px;
   display: flex;
   width: 305px;
@@ -273,14 +283,17 @@ input {
 .hfin {
   color: #0E2F4B;
   font-size: 24px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .pfin {
   color: #0E2F4B;
   font-size: 16px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .hfin2 {
+  font-family: 'Rubik', sans-serif;
   color: #0E2F4B;
   font-size: 48px;
   margin-top: 121px;
@@ -301,6 +314,7 @@ input {
   margin: 0;
   color: #0E2F4B;
   font-size: 24px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .pdivp {
@@ -335,16 +349,19 @@ input {
 }
 
 .indexh2 {
+  font-family: 'Rubik', sans-serif;
   color: #F8F8F8;
   font-size: 48px;
 }
 
 .indexp {
+  font-family: 'Open Sans', sans-serif;
   color: #99A2AA;
   font-size: 16px;
 }
 
 .inbu {
+  font-family: 'Rubik', sans-serif;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -386,6 +403,7 @@ input {
   margin-top: 131px;
   margin-left: 135px;
   margin-bottom: 25px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .owl {
@@ -441,6 +459,7 @@ input {
   position: relative;
   top: -120px;
   left: 150px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .btext {
@@ -449,14 +468,16 @@ input {
   position: relative;
   top: -130px;
   left: 150px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .btext2 {
   color: #0E2F4B;
-  font-size: 18px;
+  font-size: 16px;
   position: relative;
   top: -90px;
   left: 25px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .arrow {
@@ -472,6 +493,7 @@ input {
   position: relative;
   left: 135px;
   top: -450px;
+  font-family: 'Rubik', sans-serif;
 }
 
 
@@ -545,6 +567,7 @@ input {
   margin: 0;
   color: #99A2AA;
   font-size: 20px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .online {
@@ -562,16 +585,19 @@ input {
 .h2online {
   color: #FFF;
   font-size: 48px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .pon1 {
   color: #0E2F4B;
   font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .pon2 {
   color: #0E2F4B;
   font-size: 17px;
+  font-family: 'Rubik', sans-serif;
 }
 
 
@@ -604,11 +630,13 @@ footer {
 }
 
 .lasth {
+  font-family: 'Rubik', sans-serif;
   color: #FFF;
   font-size: 16px;
 }
 
 .lastp {
+  font-family: 'Rubik', sans-serif;
   color: #99A2AA;
   font-size: 16px;
   margin: 5px;

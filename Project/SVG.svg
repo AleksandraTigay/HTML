@@ -1,0 +1,28 @@
+<svg width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVG" clip-path="url(#clip0_1_1128)">
+<g id="Group">
+<path id="CalcIconRectangle-2" d="M29.67 15.34H15.67V29.34H29.67V15.34Z" fill="white"/>
+<path id="CalcIconPath-1" d="M0.669983 16.09V14.59H30.67V16.09H0.669983Z" fill="#99A2AA"/>
+<g id="Group_2">
+<path id="CalcIconLine-1" d="M5.66998 7.84003H11.67" stroke="#99A2AA" stroke-width="1.5" stroke-linecap="round"/>
+<path id="CalcIconLine-2" d="M8.66998 4.84003V10.84" stroke="#99A2AA" stroke-width="1.5" stroke-linecap="round"/>
+<g id="Group_3">
+<path id="CalcIconLine-3" d="M6.54865 20.7188L10.7913 24.9614" stroke="#99A2AA" stroke-width="1.5" stroke-linecap="round"/>
+<path id="CalcIconLine-4" d="M10.7913 20.7188L6.54868 24.9614" stroke="#99A2AA" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+</g>
+<path id="CalcIconRectangle-1" d="M2.16998 1.84003V28.84H29.17V1.84003H2.16998ZM1.66998 0.340027H29.67C30.2223 0.340027 30.67 0.787742 30.67 1.34003V29.34C30.67 29.8923 30.2223 30.34 29.67 30.34H1.66998C1.1177 30.34 0.669983 29.8923 0.669983 29.34V1.34003C0.669983 0.787742 1.1177 0.340027 1.66998 0.340027Z" fill="#99A2AA"/>
+<path id="CalcIconPath-2" d="M14.92 0.340027H16.42V30.34H14.92V0.340027Z" fill="#99A2AA"/>
+<g id="Group_4">
+<path id="CalcIconLine-5" d="M19.67 7.84003H25.67" stroke="#99A2AA" stroke-width="1.5" stroke-linecap="round"/>
+<path id="CalcIconLine-6" d="M19.67 20.84H25.67" stroke="#99A2AA" stroke-width="1.5" stroke-linecap="round"/>
+<path id="CalcIconLine-7" d="M19.67 24.84H25.67" stroke="#99A2AA" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_1128">
+<rect width="30" height="30" fill="white" transform="translate(0.669983 0.340027)"/>
+</clipPath>
+</defs>
+</svg>

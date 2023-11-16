@@ -1,0 +1,52 @@
+@media screen and (max-width: 450px ){
+p {
+  font-size: 9px;
+}
+
+  .link {
+  width: 100vw;
+  height: 25vh;
+  display: flex;
+  flex-direction: column;
+}
+
+  .blue {
+    width: 100vw;
+    height: 6.25vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  header {
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .art {
+    display: none;
+  }
+ .mobll {
+   width: 100vw;
+   display: block;
+
+ }
+ .moba {
+   width: 100vw;
+   height: 11.25vh;
+   background-color: royalblue;
+   border: 2px solid white ;
+   border-radius: 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+ }
+footer {
+  width: 100vw;
+  height: 6.25vh;
+}
+
+}
+

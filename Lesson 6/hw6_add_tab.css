@@ -1,0 +1,16 @@
+@media screen and (max-width: 800px ){
+.art {
+  display: flex;
+}
+.arti {
+  width: 197px;
+  height: 39.5vh ;
+}
+  .left, .right {
+    display: flex;
+    flex-direction: row;
+  }
+  .mobll {
+    display: none;
+  }
+}

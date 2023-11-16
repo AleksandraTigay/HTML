@@ -1,0 +1,70 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.back {
+  margin-top: 15vh;
+  width: 30vw;
+  height: 60vh;
+  background-color: azure;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center ;
+}
+
+.first {
+
+
+}
+
+.second {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center ;
+
+}
+.inputfi {
+  width: 8vw;
+  height: 5vh;
+}
+.inputfii {
+  width: 16vw;
+  height: 5vh;
+
+
+}
+
+.inputse {
+  margin-left: 2.5vw;
+  margin-top: 20px;
+  width: 24.7vw;
+  height: 5vh;
+}
+.third {
+  margin-left: 2.5vw;
+  margin-right: 2vw;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center ;
+}
+
+
+button {
+  width: 24.7vw;
+  height: 5vh;
+  border: none;
+  background-color: orange;
+  color: black;
+  transition: 2s;
+}
+button:hover{
+  color:azure;
+  transition: 2s;
+  border-radius: 20px;
+}

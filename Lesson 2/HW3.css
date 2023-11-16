@@ -1,0 +1,25 @@
+.wid {
+  width: 1500px;
+  height: 550px;
+  background-color: cornflowerblue;
+}
+
+.bigwid {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.bigwid2 {
+  width: 465px;
+  height: 500px;
+  background-color: darkslateblue;
+}
+
+.cont{
+  margin-top: 50px;
+  width: 1500px;
+  height: 1000px;
+  background-color: cornflowerblue;
+}

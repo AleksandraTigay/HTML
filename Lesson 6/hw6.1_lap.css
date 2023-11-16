@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  font-size: 30px;
+}
+
+header {
+  width: 100vw;
+  height: 30vh;
+  background-color: plum;
+}
+
+main {
+  width: 75vw;
+  height: 70vh;
+  background-color: mistyrose;
+}
+
+aside {
+  width: 25vw;
+  height: 70vh;
+  background-color: pink;
+}
+
+header, main, aside {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

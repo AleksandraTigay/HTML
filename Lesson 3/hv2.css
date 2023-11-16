@@ -1,0 +1,37 @@
+#top {
+  width: 100vw;
+  height: 100vh;
+  background-color: #d76868;
+}
+
+#mid {
+  width: 100vw;
+  height: 100vh;
+  background-color: #d5cb6b;
+}
+
+#bot {
+  width: 100vw;
+  height: 100vh;
+  background-color: #68d76a;
+}
+
+body {
+  margin: 0;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}

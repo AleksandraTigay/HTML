@@ -1,0 +1,53 @@
+body {
+  background-color: #2baff6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.head {
+  display: flex;
+  align-items: end;
+  margin-top: 20vh;
+  width: 25vw;
+  height:9vh;
+  background-color: white;
+  border-bottom:  1px solid #888888;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25vw;
+  height: 40vh;
+  background-color: white;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+input {
+  margin-top: 20px;
+  width: 80% ;
+  height: 15%;
+}
+
+button {
+  margin-top: 20px ;
+  margin-left: 11vw;
+  border-color: orange;
+  border-radius: 10px;
+  width: 150px;
+}
+
+.lab {
+  font-size: 25px;
+  margin-left: 35px;
+}
+
+::placeholder {
+  font-size: 20px;
+}

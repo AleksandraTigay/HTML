@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  width: 100vw;
+}
+p {
+ font-size: 25px;
+  margin-right: 10px;
+}
+.link {
+  margin: 0;
+  width: 99.8vw;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.blue {
+  width: 10vw;
+  height: 9vh;
+  background-color: royalblue;
+  border: 2px solid white ;
+  border-radius: 10px;
+}
+
+header {
+  width: 99.8vw;
+  height: 35vh;
+  background-color: royalblue;
+  border: 2px solid white ;
+  border-radius: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.arti {
+  width: 49.8vw;
+  height: 19.5vh;
+  background-color: royalblue;
+  border: 2px solid white ;
+  border-radius: 10px;
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+.art {
+  height: 40vh;
+  display: flex;
+}
+
+footer {
+  width: 99.8vw;
+  height: 13.5vh;
+  background-color: royalblue;
+  border: 2px solid white ;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mobll {
+  display: none;
+}

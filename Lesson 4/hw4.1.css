@@ -1,0 +1,47 @@
+body {
+  background-color: #b3d4fc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center ;
+  margin-top: 10vh;
+
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+header {
+  margin-top: 35px;
+  width: 30vw;
+  height: 20vh;
+  background-image: url("https://github.com/dianaklr/HTML_Sept/blob/master/HW/HW%204/instagramLogo.png?raw=true") ;
+  background-size: cover ;
+
+}
+
+form {
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+input {
+  width: 250px;
+  height: 30px;
+  display: block;
+  margin-top: 10px;
+}
+
+button {
+  width: 258px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: cornflowerblue;
+  color: white;
+  border: 0;
+}

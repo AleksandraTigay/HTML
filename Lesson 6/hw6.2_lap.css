@@ -1,0 +1,56 @@
+body, p {
+  margin: 0;
+}
+
+header {
+  width: 100vw;
+  height: 30vh;
+  background-color: lavenderblush;
+}
+
+main {
+  width: 75vw;
+  height: 35vh;
+  background-color: lightskyblue;
+}
+
+aside {
+  width: 25vw;
+  height: 35vh;
+  background-color: steelblue;
+}
+
+section {
+  width: 25vw;
+  height: 35vh;
+  background-color: skyblue;
+}
+
+article {
+  width: 25vw;
+  height: 35vh;
+  background-color: powderblue;
+}
+
+footer {
+  width: 25vw;
+  height: 70vh;
+  background-color: cornflowerblue;
+  position: absolute;
+  top: 30vh;
+  left: 75vw;
+
+}
+
+.three {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+}
+
+.main2 {
+  width: 100vw;
+  height: 70vh;
+}
+

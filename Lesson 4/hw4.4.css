@@ -1,0 +1,54 @@
+input {
+  padding: 0;
+  margin: 0;
+}
+
+.back {
+  margin: 0;
+  width: 75vw;
+  height: 15vh;
+  background-color: #7bec7d;
+  color: #f54343;
+  font-size: 25px;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+.form {
+  width: 75vw;
+  height: 60vh;
+  background-color: #7bec7d;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-left: 15px;
+  margin-top: 15px;
+  font-size: 25px;
+}
+
+.inputfi {
+  margin-top: 30px;
+  width: 20vw;
+  height: 5vh;
+}
+
+.inputge {
+  margin-top: 30px;
+  width: 5vw;
+  height: 3vh;
+}
+
+.inputne {
+  margin-top: 30px;
+  width: 5vw;
+  height: 3vh;
+}
+
+.inputsu {
+  margin-top: 30px;
+  margin-left: 15px;
+  width: 15vw;
+  height: 5vh;
+}

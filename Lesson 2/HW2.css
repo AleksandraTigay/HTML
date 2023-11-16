@@ -1,0 +1,16 @@
+.div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  transition: 2s;
+}
+
+.loc {
+  display: flex;
+  justify-content: space-around;
+  align-items: center  ;
+}
+
+.rr {
+  height: 700px;
+}

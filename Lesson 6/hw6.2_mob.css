@@ -1,0 +1,20 @@
+@media screen and (max-width: 500px) {
+  header, footer {
+    width: 100vw;
+    height: 20vh;
+  }
+
+  main {
+    width: 100vw;
+    height: 40vh;
+  }
+
+  aside, section, article {
+    width: 33.33vw;
+    height: 20vh;
+
+    }
+  footer {
+    position: unset;
+  }
+}

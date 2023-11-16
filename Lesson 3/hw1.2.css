@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+div {
+  display: flex;
+}
+
+nav {
+  width: 100vw;
+  height: 10vh;
+  background: rgba(217, 217, 217, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  width: 33.333vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  width: 100vw;
+  height: 10vh;
+  background: rgba(184, 179, 179, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+}
+
+header {
+  width: 100vw;
+  height: 24vh;
+  background: rgba(217, 217, 217, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  width: 100vw;
+  height: 33vh;
+  top: 245px;
+  background: rgba(186, 181, 181, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  display: flex;
+}
+
+section {
+  width: 60vw;
+  height: 33vh;
+  background: rgba(152, 149, 149, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+article {
+  width: 40vw;
+  height: 33vh;
+  background: rgba(113, 107, 107, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  width: 100vw;
+  height: 10vh;
+  background: rgba(217, 217, 217, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
